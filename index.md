@@ -1,13 +1,13 @@
 # エンジニアの勉強法
 
 ##  :construction:
-まだ未完成です:orange:
+まだ未完成です :orange:
 
 ## about me :snowman: 
 私は普段NextjsやGoで開発を行っているWebエンジニアです。最近DDDを勉強中です。
 
 ## はじめに  :cat2:
-この文書は個人的なメモです:cat:
+この文書は個人的なメモです :cat:
 Webエンジニアに必要な技術や知見、何を学習するかについては割と公開されていますが、勉強方法はあまり見かけないと個人的に思ったのでその辺りのメモしていこうと思います。
 
 ## 無限学習編 :pencil:
@@ -23,16 +23,16 @@ Webエンジニアに必要な技術や知見、何を学習するかについ�
 |概念/用語理解|中|
 
 - コードの読解力、実装力
-- コードが読めない、書けないと業務を遂行できないので最優先で学ぶ、体に覚えさせる必要があると感じます。読み書きができれば上級者のコードを見て知識として吸収することができます。
+  - コードが読めない、書けないと業務を遂行できないので最優先で学ぶ、体に覚えさせる必要があると感じます。読み書きができれば上級者のコードを見て知識として吸収することができます。
 - ライブラリ/フレームワークの仕様理解
-- 実務ではNext.js/RemixなどフレームワークやReactを始めStorybookやUIコンポーネント、Jestなどのテストライブラリなど効率よく仕事をするために使用されるツールが沢山あります。これらの仕様を理解する必要があります。
+  - 実務ではNext.js/RemixなどフレームワークやReactを始めStorybookやUIコンポーネント、Jestなどのテストライブラリなど効率よく仕事をするために使用されるツールが沢山あります。これらの仕様を理解する必要があります。
 - Git理解
-- チーム開発を行う業務ではGitHubやGitLabなどのプラットフォームが使用されるためブランチやPRの概念を理解する必要があります。
+  - チーム開発を行う業務ではGitHubやGitLabなどのプラットフォームが使用されるためブランチやPRの概念を理解する必要があります。
 - DB理解
-- バックエンド開発において必須です。React Server Componentの登場でフロントエンドとバックエンドの業務の堺はなくなると思うので尚更学習するべきだと感じます。
+　　- バックエンド開発において必須です。React Server Componentの登場でフロントエンドとバックエンドの業務の堺はなくなると思うので尚更学習するべきだと感じます。
 ORMも学習する必要があります。
 - その他
-- デザインやアーキテクチャを極めれば最強ですね:unicorn:
+　　- デザインやアーキテクチャを極めれば最強ですね :unicorn:
 - 用語に関しては現時点で必要な言葉だけを覚えれば良いと思います。
 
 実務の中で覚えていければベストですが、未経験の方はアプリを独学で開発していくか訓練校の1年コースに通うのがコスパがよいかもです。
@@ -47,13 +47,13 @@ ORMも学習する必要があります。
 
 ## 参考資料
 - 情報収集
-- [Zenn](https://zenn.dev/)
-- [Qiita](https://qiita.com/)
-- [connpass](https://connpass.com/)
-- [http://JSer.info](https://jser.info/)
-- [はてな企業技術ブログ](https://hatena.blog/dev)
-- [Medium](https://medium.com/)
-- [http://web.dev](https://web.dev/blog?hl=ja)
+　　- [Zenn](https://zenn.dev/)
+　　- [Qiita](https://qiita.com/)
+　　- [connpass](https://connpass.com/)
+　　- [http://JSer.info](https://jser.info/)
+　　- [はてな企業技術ブログ](https://hatena.blog/dev)
+　　- [Medium](https://medium.com/)
+　　- [http://web.dev](https://web.dev/blog?hl=ja)
 
 ***
 powerd by  :heart: [Github Pages](https://docs.github.com/ja/pages)
