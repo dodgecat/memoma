@@ -46,6 +46,7 @@ ORMも学習する必要があります。
 ```
 
 ## 参考資料
+- ブログ関連
 　- [Zenn](https://zenn.dev/)  
 　- [Qiita](https://qiita.com/)  
 　- [connpass](https://connpass.com/)  
