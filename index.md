@@ -40,20 +40,19 @@ ORMも学習する必要があります。
 ## 学習方法 :running:
 結論から述べると、頭に記憶させるというインプットのみの考えは一旦無視して兎に角書いてインプットとアウトプットを同時にして何回もコードを書いて体に定着させることがよいです。
 
-以下のライフサイクルのなかで実装する所まで完了すると自然と手が動くはずです:robot:
+以下のライフサイクルのなかで実装する所まで完了すると自然と手が動くはずです　:robot:
 ```
 課題が生まれる => 解決法を調べる => 解決法を理解する => 実装する => 体が覚える
 ```
 
 ## 参考資料
-- 情報収集
-　　- [Zenn](https://zenn.dev/)
-　　- [Qiita](https://qiita.com/)
-　　- [connpass](https://connpass.com/)
-　　- [http://JSer.info](https://jser.info/)
-　　- [はてな企業技術ブログ](https://hatena.blog/dev)
-　　- [Medium](https://medium.com/)
-　　- [http://web.dev](https://web.dev/blog?hl=ja)
+　- [Zenn](https://zenn.dev/)
+　- [Qiita](https://qiita.com/)
+　- [connpass](https://connpass.com/)
+　- [http://JSer.info］(https://jser.info/)
+　- [はてな企業技術ブログ](https://hatena.blog/dev)
+　- [Medium](https://medium.com/)
+　- [http://web.dev](https://web.dev/blog?hl=ja)
 
 ***
 powerd by  :heart: [Github Pages](https://docs.github.com/ja/pages)
