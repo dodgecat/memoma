@@ -47,13 +47,13 @@ ORMも学習する必要があります。
 
 ## 参考資料
 - ブログ関連
-　- [Zenn](https://zenn.dev/)  
-　- [Qiita](https://qiita.com/)  
-　- [connpass](https://connpass.com/)  
-　- [JSer\.info](https://jser.info/)  
-　- [はてな企業技術ブログ](https://hatena.blog/dev)  
-　- [Medium](https://medium.com/)  
-　- [web\.dev](https://web.dev/blog?hl=ja)  
+  - [Zenn](https://zenn.dev/)  
+  - [Qiita](https://qiita.com/)  
+  - [connpass](https://connpass.com/)  
+  - [JSer\.info](https://jser.info/)  
+  - [はてな企業技術ブログ](https://hatena.blog/dev)  
+  - [Medium](https://medium.com/)  
+  - [web\.dev](https://web.dev/blog?hl=ja)  
 
 ***
 powerd by  :heart: [Github Pages](https://docs.github.com/ja/pages)
